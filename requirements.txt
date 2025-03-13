@@ -1,14 +1,13 @@
 streamlit
+streamlit-folium
 pandas
 altair
 matplotlib
 ipyleaflet
-ipywidgets
 folium
-streamlit-folium
 geopy
+plotly
 nltk
+googlemaps
 wordcloud
 scikit-learn
-googlemaps
-plotly
