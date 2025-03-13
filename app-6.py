@@ -212,40 +212,6 @@ df_popin['Location'] = df_popin['Location'].apply(replace_virtual_online)
 
 ### ---  GEOCODING (Convert Location to Latitude & Longitude) --- ###
 
-# Initialize Google Maps API (Replace with a real API key)
-API_KEY = "AIzaSyA8UE2ZX_Gqc1ier_lx029QCah7_JUne9M"  # replace this with our actual key!
-gmaps = googlemaps.Client(key=API_KEY)
-
-# Function to get latitude and longitude from an address
-def get_lat_lon(Location, max_retries=3):
-    if isinstance(Location, str) and Location.lower() == "online":  # Skip "online" locations
-        return pd.Series([None, None])
-
-    for attempt in range(max_retries):
-        try:
-            geocode_result = gmaps.geocode(Location)
-            if geocode_result:
-                lat = geocode_result[0]['geometry']['location']['lat']
-                lon = geocode_result[0]['geometry']['location']['lng']
-                return pd.Series([lat, lon])
-        except Exception as e:
-            print(f"Error for {Location}: {e}")
-            time.sleep(2)  # Wait before retrying
-            continue
-
-    return pd.Series([None, None])  # Return None if all retries fail
-
-# Apply geocoding with a delay
-if "latitude" not in df_popin.columns or "longitude" not in df_popin.columns:
-    df_popin[["latitude", "longitude"]] = df_popin["Location"].apply(lambda x: get_lat_lon(x))
-
-
-# Ensure latitude and longitude are numeric and drop rows where they are missing
-df_popin["latitude"] = pd.to_numeric(df_popin["latitude"], errors="coerce")
-df_popin["longitude"] = pd.to_numeric(df_popin["longitude"], errors="coerce")
-
-# Drop rows where latitude or longitude is missing
-#df_popin = df_popin.dropna(subset=["latitude", "longitude"]) # remove this, cannot drop not lat or ltn because of online loc
 
 #----------------------2 End 2---------------------#
 
