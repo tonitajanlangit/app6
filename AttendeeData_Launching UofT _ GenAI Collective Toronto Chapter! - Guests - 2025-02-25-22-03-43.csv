@@ -1,0 +1,107 @@
+id,created_at,approval_status,ticket_name,Which of the following best describes your background? ,Which part of AI interests you most?,Are you interested in contributing to the GenAI collective community?,What will you help you best with your AI project or startup ideas? (Helps us plan better programming for you!),Is it ok to share your contact for networking?
+1,2025-02-21T23:55:57.520Z,approved,Standard,Student,"HealthCare, Business, Startups, Education",,,
+2,2025-02-20T17:12:33.300Z,approved,Standard,"general/other, student",HealthCare,"Chapter Leadership, Sponsoring or partnering",Connect me with people in Healthcare!,
+3,2025-02-21T05:09:42.033Z,approved,Standard,investor,"Startups, Business","Volunteering at events, Helping with social media & content",,
+4,2025-02-21T00:15:03.441Z,approved,Standard,founder,"Startups, Business","Chapter Leadership, Sponsoring or partnering",,
+5,2025-02-17T23:45:49.230Z,approved,Standard,,"AI & Business Applications, AI Research, AI & Education",Speaking at future meetups,,
+6,2025-02-22T01:15:28.461Z,approved,Standard,"Founder, Operator/Service provider","Business, Startups, Finance",Chapter Leadership,Tools,
+7,2025-02-23T10:29:25.438Z,approved,Standard,"Operator/Service provider, Investor","Finance, HealthCare","Helping with social media & content, Writing blogs/articles on AI",,Yes
+8,2025-02-20T21:00:07.873Z,approved,Standard,general/other,Other(pls specify),,,
+9,2025-02-17T16:21:22.561Z,approved,Standard,,AI & Design (UX/HCI),,,
+10,2025-02-23T19:21:10.513Z,approved,Standard,"Founder, Student","Startups, Business",Speaking at future meetups,"Networking, mentorship, and opportunities.",Yes
+11,2025-02-24T22:17:22.761Z,pending_approval,Standard,Founder,Business,Chapter Leadership,,Yes
+12,2025-02-22T14:24:46.357Z,pending_approval,Standard,Student,"Startups, Business, Design, Research, Ethics","Volunteering at events, Writing blogs/articles on AI, Helping with social media & content, Sponsoring or partnering",,
+13,2025-02-25T09:47:23.969Z,pending_approval,Standard,"General, Engineer, Researcher","Business, Startups, Research, Finance",,,No
+14,2025-02-23T15:03:41.525Z,pending_approval,Standard,Researcher,Education,"Speaking at future meetups, Helping with social media & content",Just Networking for now and potential collaboration between folks,Yes
+15,2025-02-24T14:20:40.386Z,pending_approval,Standard,Engineer,"HealthCare, Education, Startups","Volunteering at events, Writing blogs/articles on AI",,Yes
+16,2025-02-24T16:21:49.737Z,pending_approval,Standard,Executive,"Startups, Business, Education, HealthCare, Other(pls specify), Finance, Design, CyberSecurity",,Investment connections ,Yes
+17,2025-02-24T16:28:25.660Z,pending_approval,Standard,"Operator/Service provider, Founder","Business, Startups, Finance",Volunteering at events,,No
+18,2025-02-22T17:41:53.106Z,pending_approval,Standard,Student,"HealthCare, Startups, Finance, Business, Education",,,Yes
+19,2025-02-22T16:00:16.300Z,pending_approval,Standard,Media,Education,Writing blogs/articles on AI,"I""m a communications consultant, former senior management for a government agency. I'm interested in the full range of communications implications.",Yes
+20,2025-02-22T21:56:58.327Z,pending_approval,Standard,Investor,Startups,,,Yes
+21,2025-02-24T20:39:18.564Z,pending_approval,Standard,"Founder, Engineer, Researcher",Startups,Chapter Leadership,,Yes
+22,2025-02-24T20:14:26.717Z,pending_approval,Standard,Investor,"Business, HealthCare, CyberSecurity",,,Yes
+23,2025-02-24T13:16:51.099Z,pending_approval,Standard,"Engineer, Founder","Startups, Finance","Speaking at future meetups, Writing blogs/articles on AI",,Yes
+24,2025-02-23T02:07:00.984Z,pending_approval,Standard,"Researcher, Engineer","Startups, Research",,Latest tools coming out,Yes
+25,2025-02-23T20:20:16.242Z,pending_approval,Standard,Engineer,"Business, Education, Startups",,I'm just constantly on the lookout for better ways to use AI to assist in learning (as I work for an edtech startup) and general business process automation,Yes
+26,2025-02-23T20:29:35.759Z,pending_approval,Standard,"Researcher, Engineer","Ethics, Research, Startups","Volunteering at events, Writing blogs/articles on AI",Would like to meet like-minded individuals working on responsible AI and fairness,Yes
+27,2025-02-24T18:47:57.641Z,pending_approval,Standard,Operator/Service provider,"Business, Research",Speaking at future meetups,Getting workshops on deep tech related to ai + meeting technical people,Yes
+28,2025-02-21T17:19:37.457Z,pending_approval,Standard,"Engineer, Founder",Startups,Speaking at future meetups,,
+29,2025-02-21T20:37:18.404Z,pending_approval,Standard,"Operator/Service provider, General","Education, Startups, Finance","Writing blogs/articles on AI, Speaking at future meetups, Volunteering at events, Chapter Leadership, Helping with social media & content",No clue figuring it out at the moment.,
+30,2025-02-24T18:38:28.441Z,pending_approval,Standard,"Founder, Researcher",HealthCare,Speaking at future meetups,"connecting with VCs, pitching, collaborating with other researchers/ founders",Yes
+31,2025-02-25T00:30:12.098Z,pending_approval,Standard,Founder,Business,"Writing blogs/articles on AI, Speaking at future meetups, Volunteering at events, Helping with social media & content",Sharing our projects,Yes
+32,2025-02-23T14:25:34.060Z,pending_approval,Standard,General,"Business, Startups, Research",,,No
+33,2025-02-24T17:25:51.040Z,pending_approval,Standard,"Executive, General","Business, Education, Research, Ethics",Volunteering at events,,Yes
+34,2025-02-25T17:00:48.489Z,pending_approval,Standard,"Operator/Service provider, Researcher, Founder","Startups, Research, Business","Volunteering at events, Writing blogs/articles on AI",Efficient and cost effective GTM tech stack,Yes
+35,2025-02-22T18:40:54.369Z,pending_approval,Standard,"Engineer, Founder","Startups, Research, Finance",,,Yes
+36,2025-02-24T17:16:56.310Z,pending_approval,Standard,Executive,Startups,,Understanding the pain points,Yes
+37,2025-02-22T16:32:10.681Z,pending_approval,Standard,Media,HealthCare,Helping with social media & content,,Yes
+38,2025-02-24T14:42:32.558Z,pending_approval,Standard,Founder,"Startups, Design, Finance",,,Yes
+39,2025-02-24T17:29:10.789Z,pending_approval,Standard,Researcher,HealthCare,Writing blogs/articles on AI,Funding and Research,Yes
+40,2025-02-24T21:45:37.250Z,pending_approval,Standard,General,"Startups, Business, Finance",,,Yes
+41,2025-02-24T14:19:43.708Z,pending_approval,Standard,"Investor, Founder",Business,,,Yes
+42,2025-02-22T17:09:32.292Z,pending_approval,Standard,"Engineer, Founder","Startups, Finance, Research",,Collaboration with other blockchain developers and access to AI resources.,Yes
+43,2025-02-24T03:18:51.266Z,pending_approval,Standard,"Student, Researcher","HealthCare, Research",,,Yes
+44,2025-02-23T15:44:13.191Z,pending_approval,Standard,Founder,HealthCare,Speaking at future meetups,Meet engineers and people with deep AI knowledge,Yes
+45,2025-02-24T00:53:20.692Z,pending_approval,Standard,Researcher,"Research, Startups","Volunteering at events, Helping with social media & content",,Yes
+46,2025-02-22T18:37:20.662Z,pending_approval,Standard,"Founder, Engineer","Startups, Design, Business",,Networking with like-minded crowd who are serious in building quality Gen AI products..,Yes
+47,2025-02-25T02:28:54.320Z,pending_approval,Standard,"Engineer, Investor, Founder","Business, HealthCare, Education, Startups, CyberSecurity, Research","Volunteering at events, Speaking at future meetups",Connecting with people that are very knowledgeable ,Yes
+48,2025-02-25T22:00:40.056Z,pending_approval,Standard,"Investor, Student, Media","Business, Research, Finance",,,Yes
+49,2025-02-24T18:35:16.673Z,pending_approval,Standard,Founder,"Ethics, Business, Startups, Research","Speaking at future meetups, Chapter Leadership",Networking ,Yes
+50,2025-02-24T15:27:43.827Z,pending_approval,Standard,General,HealthCare,"Chapter Leadership, Volunteering at events, Helping with social media & content",Speaker panels and insight from successful projects,Yes
+51,2025-02-22T16:37:44.706Z,pending_approval,Standard,"Student, Researcher","Business, Startups",,,Yes
+52,2025-02-25T11:07:00.013Z,pending_approval,Standard,"Founder, Operator/Service provider","Startups, Ethics, Business, HealthCare, Education","Speaking at future meetups, Chapter Leadership, Sponsoring or partnering",showcasing the best product pivots with rise of AI Agents,Yes
+53,2025-02-24T17:24:57.098Z,pending_approval,Standard,"Engineer, Researcher","Research, Design",,Ai in electronics industry.,Yes
+54,2025-02-25T14:59:46.446Z,pending_approval,Standard,Founder,HealthCare,,,Yes
+55,2025-02-22T20:26:20.364Z,pending_approval,Standard,"Student, Engineer","Startups, Education",,"networking opportunities, meetups to get a better idea of what people are working on, latest technology trends within the space etc",Yes
+56,2025-02-25T06:42:16.157Z,pending_approval,Standard,Engineer,HealthCare,Speaking at future meetups,,No
+57,2025-02-22T14:40:39.035Z,pending_approval,Standard,Executive,Business,Volunteering at events,Helping young entrepreneurs get to market successfully,
+58,2025-02-25T06:58:43.163Z,pending_approval,Standard,"Operator/Service provider, General","Business, Education, Finance, Ethics, HealthCare","Sponsoring or partnering, Volunteering at events",,Yes
+59,2025-02-25T16:23:56.566Z,pending_approval,Standard,Engineer,"Business, Education, Startups, CyberSecurity, Research",,,Yes
+60,2025-02-23T15:49:10.963Z,pending_approval,Standard,"Founder, Engineer, Executive",Startups,,I like watching other people's demos a lot for inspiration,No
+61,2025-02-25T04:12:23.125Z,pending_approval,Standard,Media,Business,Writing blogs/articles on AI,I make Ai Videos,Yes
+62,2025-02-24T16:13:26.892Z,pending_approval,Standard,Founder,Business,,,Yes
+63,2025-02-25T01:23:34.444Z,pending_approval,Standard,Executive,CyberSecurity,Speaking at future meetups,,Yes
+64,2025-02-25T15:30:40.899Z,pending_approval,Standard,Founder,Business,,,Yes
+65,2025-02-22T19:01:39.089Z,pending_approval,Standard,Student,"HealthCare, Business","Helping with social media & content, Writing blogs/articles on AI","Learning new methodologies, and products",Yes
+66,2025-02-24T17:14:45.469Z,pending_approval,Standard,Researcher,"Education, Research",Speaking at future meetups,,Yes
+67,2025-02-22T17:23:54.015Z,pending_approval,Standard,"Student, Engineer","HealthCare, Startups",,,Yes
+68,2025-02-24T00:03:16.583Z,pending_approval,Standard,Operator/Service provider,Startups,"Writing blogs/articles on AI, Helping with social media & content, Volunteering at events","Networking with other enthusiasts mostly, but also, hands on workshop sessions on topics like generative coding with Cursor, or building effective AI Agents ",Yes
+69,2025-02-24T19:10:50.891Z,pending_approval,Standard,"Founder, Engineer","CyberSecurity, Startups",Speaking at future meetups,"maybe an ecosystem showing who is working on what, making it easier to connect and partner",Yes
+70,2025-02-25T02:50:30.945Z,pending_approval,Standard,Student,"Startups, Business",,Eager to learn more about AI in search for mentorship’s and opportunities.,Yes
+71,2025-02-23T21:36:24.548Z,pending_approval,Standard,Student,"Design, Startups",Volunteering at events,"Networking, and understand what's possible for ai integration for my project ",Yes
+72,2025-02-24T15:21:03.240Z,pending_approval,Standard,Operator/Service provider,Startups,Volunteering at events,"Use of AI with IoT, Cameras and/or Drones",Yes
+73,2025-02-24T02:41:17.981Z,pending_approval,Standard,"Researcher, Engineer, Student",Business,,,Yes
+74,2025-02-24T02:42:17.442Z,pending_approval,Standard,"Engineer, Student","Startups, Business, Research",Volunteering at events,"Hands-on workshops, Hackaton, Useful lectures and presentation",Yes
+75,2025-02-20T20:43:37.334Z,pending_approval,Standard,student,HealthCare,Chapter Leadership,,
+76,2025-02-21T19:17:03.365Z,pending_approval,Standard,Student,Design,,,
+77,2025-02-24T16:27:49.419Z,pending_approval,Standard,General,Business,Sponsoring or partnering,,Yes
+78,2025-02-24T16:23:50.230Z,pending_approval,Standard,General,"Finance, Business, HealthCare, Startups","Sponsoring or partnering, Speaking at future meetups","Start an AI powered consulting business. AI agent that can automate workflow and generate leads, follow up on emails, follow up with clients. Solutioning.",Yes
+79,2025-02-25T14:59:44.029Z,pending_approval,Standard,Operator/Service provider,"Startups, Education","Writing blogs/articles on AI, Speaking at future meetups, Helping with social media & content",,Yes
+80,2025-02-25T21:57:27.186Z,pending_approval,Standard,Media,Business,,,Yes
+81,2025-02-22T19:03:03.756Z,pending_approval,Standard,Founder,"Startups, Business, Education","Chapter Leadership, Speaking at future meetups",I can help other starting out with Gen AI,Yes
+82,2025-02-25T16:06:38.567Z,pending_approval,Standard,Founder,Business,Speaking at future meetups,,Yes
+83,2025-02-25T16:22:36.296Z,pending_approval,Standard,Engineer,"Design, Research, Education, Business",,,Yes
+84,2025-02-24T16:28:19.589Z,pending_approval,Standard,"Engineer, Student, Researcher",Startups,Sponsoring or partnering,,Yes
+85,2025-02-24T18:08:27.802Z,pending_approval,Standard,Founder,"Business, Startups, Education",,Looking for a marketing role in AI,Yes
+86,2025-02-25T15:36:55.139Z,pending_approval,Standard,Founder,"Startups, Business","Volunteering at events, Speaking at future meetups, Helping with social media & content",,Yes
+87,2025-02-24T16:05:59.418Z,pending_approval,Standard,Investor,Business,Sponsoring or partnering,Comprehensive AI tools / solutions,Yes
+88,2025-02-23T21:03:52.681Z,pending_approval,Standard,"Student, Researcher",Research,,,No
+89,2025-02-25T18:45:21.434Z,pending_approval,Standard,Investor,Startups,,,Yes
+90,2025-02-23T22:22:45.297Z,pending_approval,Standard,Engineer,"Startups, Education",,,Yes
+91,2025-02-25T14:24:49.476Z,pending_approval,Standard,"Researcher, Student","HealthCare, Research","Chapter Leadership, Speaking at future meetups",,Yes
+92,2025-02-23T21:43:57.214Z,pending_approval,Standard,Student,Startups,Volunteering at events,,Yes
+93,2025-02-25T20:16:20.860Z,pending_approval,Standard,"Founder, General","Business, Education, Startups",,,Yes
+94,2025-02-24T19:39:35.510Z,pending_approval,Standard,Founder,Startups,,,Yes
+95,2025-02-22T18:14:02.492Z,pending_approval,Standard,"Founder, Researcher, Student","Other(pls specify), Design, Education, HealthCare",Speaking at future meetups,,Yes
+96,2025-02-24T20:07:04.853Z,pending_approval,Standard,Founder,"Startups, Other(pls specify)",,,No
+97,2025-02-25T18:25:03.967Z,pending_approval,Standard,"Student, Researcher","Business, HealthCare, Startups, Research, Ethics","Chapter Leadership, Volunteering at events, Writing blogs/articles on AI, Helping with social media & content",Providing networking opportunities and learning about the AI ecosystem in Canada,Yes
+98,2025-02-24T17:21:35.289Z,pending_approval,Standard,Founder,Startups,,,Yes
+99,2025-02-21T21:55:44.691Z,pending_approval,Standard,General,Design,Helping with social media & content,,
+100,2025-02-21T21:56:06.181Z,pending_approval,Standard,"Student, Founder, Engineer, Researcher, Executive, Operator/Service provider, Media, General","Business, HealthCare, Education, Startups, CyberSecurity, Research, Ethics, Design, Finance","Volunteering at events, Chapter Leadership",,
+101,2025-02-23T19:25:56.271Z,pending_approval,Standard,Executive,Finance,Volunteering at events,Understanding the trends in AI,Yes
+102,2025-02-22T17:53:24.092Z,pending_approval,Standard,"Engineer, Executive","HealthCare, Business, Education",,,Yes
+103,2025-02-22T00:34:51.057Z,pending_approval,Standard,"Student, Media, Researcher","Business, HealthCare, Startups, CyberSecurity, Research, Ethics, Finance, Other(pls specify)",Writing blogs/articles on AI,,
+104,2025-02-24T01:33:02.777Z,pending_approval,Standard,Engineer,"Startups, Business",,,Yes
+105,2025-02-25T00:37:50.910Z,pending_approval,Standard,Engineer,"HealthCare, Business, Education","Volunteering at events, Writing blogs/articles on AI",,Yes
+106,2025-02-23T02:19:21.374Z,pending_approval,Standard,"Engineer, Researcher","CyberSecurity, Startups, Research","Volunteering at events, Writing blogs/articles on AI",,Yes
