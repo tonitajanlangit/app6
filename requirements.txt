@@ -2,7 +2,7 @@ datetime
 streamlit
 pandas
 altair
-matplotlib.pyplot
+matplotlib
 ipyleaflet
 ipywidgets
 folium
